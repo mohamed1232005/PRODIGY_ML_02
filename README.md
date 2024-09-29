@@ -2,7 +2,7 @@
 ## Customer Segmentation Using K-Means Clustering and Gradient Boosting Classifier
 ### Project Overview :
 In today's competitive retail industry, customer segmentation plays a pivotal role in designing personalized marketing strategies and improving customer engagement. This project aims to group retail store customers based on their purchase history using K-Means clustering. Additionally, a predictive model is implemented using the Gradient Boosting Classifier to classify the clusters formed by the K-Means algorithm based on specific customer attributes.
-### ** Objectives**:
+### **Objectives**:
 The primary objective of this project is to identify distinct customer groups based on annual income and spending scores and to build a predictive model to classify these groups based on demographic and financial features. The technical objectives are:
 
 - **Apply K-Means clustering to group customers based on purchase patterns.**
